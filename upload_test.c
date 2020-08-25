@@ -1,5 +1,5 @@
-/*Escreva um programa que receba um número inteiro e calcule seu fatorial e mostre o resultado.
-O programa deve mostrar uma mensagem de erro caso seja informado um número negativo.
+/*Escreva um programa que receba um nÃºmero inteiro e calcule seu fatorial e mostre o resultado.
+O programa deve mostrar uma mensagem de erro caso seja informado um nÃºmero negativo.
 Tratar o fatorial de zero (0! = 1).*/
 #include <stdio.h>
 
